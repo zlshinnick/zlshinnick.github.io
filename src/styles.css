@@ -10,15 +10,20 @@ section {
 
 
 .hero {
-    background-color: #212121;
-    height: 100vh;  
+    background-image: url('/Users/zachshinnick/Desktop/portfolio_website/images/IMG_3984.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh; 
+    width: 100vw; 
     color: white;
     font: size 40px;                
 }
 
 footer {
     color: white;
-    background-color: black;
+    background-image: url('/Users/zachshinnick/Desktop/portfolio_website/images/f.jpg');
+    background-size: cover;
+    background-repeat: no-repeat; 
     text-align:center;
     padding: 80px;
 }
