@@ -10,7 +10,7 @@ section {
 
 
 .hero {
-    background-image: url('/Users/zachshinnick/Desktop/portfolio_website/images/IMG_3984.jpg');
+    background-image: url('images/IMG_3984.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh; 
@@ -21,7 +21,7 @@ section {
 
 footer {
     color: white;
-    background-image: url('/Users/zachshinnick/Desktop/portfolio_website/images/f.jpg');
+    background-image: url('images/f.jpg');
     background-size: cover;
     background-repeat: no-repeat; 
     text-align:center;
