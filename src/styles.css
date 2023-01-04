@@ -67,6 +67,13 @@ h4 {
     font-size: 30px;
     text-align: center;
 }
+
+h5 {
+    font-size: 30px;
+    padding-left: 20px;
+}
+
+
 p {
     margin: 0px;
     font-weight:300;
@@ -93,7 +100,7 @@ p {
     width: 200px;
     height:55 px;
     border-radius: 30px;
-    background-color: cyan;
+    background-color: rgb(208, 0, 255);
     text-align: center;
     font-weight:300;
     font-size: 30px;
@@ -102,11 +109,11 @@ p {
 }
 
 .button:hover {
-    background-color: aquamarine;
+    background-color: rgb(222, 123, 237);
 }
 
 .button:active {
-    background-color: grey;
+    background-color: blue;
 }
 
 .socials {
@@ -198,5 +205,9 @@ a {
 }
 
 .work-text {
-    padding-left: 50px;
+    margin-left: 20px;
+}
+
+.email {
+    font-size: 30px;
 }
